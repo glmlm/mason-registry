@@ -16,6 +16,3 @@ schemas:
 
 bin:
   basics-language-server: npm:basics-language-server
-
-neovim:
-  lspconfig: basics_ls
